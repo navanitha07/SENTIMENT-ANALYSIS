@@ -64,3 +64,6 @@ Classification Report: Provides precision, recall, and F1-score for both positiv
 Conclusion
 This sentiment analysis project successfully demonstrates how natural language processing and machine learning can be applied to social media data for valuable insights. By accurately classifying the emotional tone of tweets, the model can support applications in brand monitoring, political analysis, and customer feedback evaluation. Future enhancements may include adding deep learning models, incorporating emoji analysis, and deploying the system through a web interface.
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/a3c96335-319a-48bb-8624-1b76fe1b08c1)
+
